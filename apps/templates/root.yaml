@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://github.com/hellebore74/helm_chart/helm-chart.git
+    repoURL: https://github.com/hellebore74/helm-chart.git
     targetRevision: HEAD
   syncPolicy:
     automated:
